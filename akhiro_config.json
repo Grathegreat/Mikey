@@ -1,8 +1,8 @@
 {
   "botName": "AkhiroBot",
-  "botPrefix": "/",
+  "botPrefix": "*",
   "botOwner": "Mot Mot Oyamat",
   "contact": "https://facebook.com/Mot.Mot.Oyamat",
   "botDev": "AkhiroDev & Yu3Bot & LiANE",
-  "botAdmins": [61553404918808]
+  "botAdmins": ["61553404918808"]
 }
