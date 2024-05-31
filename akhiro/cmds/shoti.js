@@ -5,7 +5,7 @@ const path = require("path");
 module.exports = {
   config: {
     name: "shoti",
-    role: 1,
+    role: 0,
     description: "Get video from Shoti API",
     usage: "shoti",
     author: "Rui | Liby",
