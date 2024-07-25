@@ -8,7 +8,7 @@ const path = require("path");
 const PORT = 3000;
 const app = express();
 
-const configPath = path.join(process.cwd(), "akhiro_config.json");
+const configPath = path.join(process.cwd(), "config.json");
 
 const config = fs.readJsonSync(configPath, { throws: true });
 
