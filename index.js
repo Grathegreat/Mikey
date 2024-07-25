@@ -1,6 +1,6 @@
 const { spawn: s } = require("child_process");
 function startProject() {
-  const c = s("node", ["Akhiro.js"], {
+  const c = s("node", ["mot.js"], {
     cwd: __dirname,
     stdio: "inherit",
     shell: true,
